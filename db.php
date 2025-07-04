@@ -1,4 +1,5 @@
 <?php
+$tes = "";
 $host = "localhost";
 $user = "root";
 $pass = "";
